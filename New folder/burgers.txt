@@ -1,0 +1,3 @@
+0#Cheeseburger#3.0#4#Chicken strips#300#Ketchup#40#Onion#100#Cheese#30#@
+1#Chefburger#4.0#4#Chicken strips#400#Ketchup#50#Pickles#100#Tomato#100#@
+2#Chefburger De Lux#4.90#5#Chicken strips#400#Ketchup#50#Pickles#100#Cheese#70#Tomato#100#@

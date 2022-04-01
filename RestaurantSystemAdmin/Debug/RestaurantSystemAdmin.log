@@ -1,0 +1,148 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RestaurantSystemAdmin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Admin.cpp
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(120,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(121,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(122,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(123,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(124,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(125,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(193,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(194,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(195,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(196,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(197,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(198,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(262,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(263,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(264,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(265,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(266,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(267,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(320,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(321,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(322,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(323,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(324,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(325,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(377,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(378,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(379,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(380,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(381,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(382,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(434,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(435,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(436,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(437,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(438,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(439,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(491,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(492,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(493,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(494,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(495,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(496,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(561,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(562,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(563,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(564,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(565,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(566,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(613,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(768,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(850,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(908,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(909,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(910,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(911,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(912,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(913,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1012,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1101,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1284,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1337,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1390,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1443,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1509,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1510,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1511,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1512,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1513,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1514,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1611,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1612,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1613,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1614,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1615,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1616,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1696,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1697,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1698,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1699,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1700,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1701,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1704,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1702,6): warning C4101: 's': unreferenced local variable
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1760,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1761,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1762,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1763,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1764,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1765,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1848,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1849,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1850,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1851,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1852,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(1853,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2014,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2098,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2183,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2268,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2353,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2438,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2506,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(2554,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2575,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2586): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2566): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(20): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\User\source\repos\RestaurantSystemAdmin\RestaurantSystemAdmin\Admin.cpp(20): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  RestaurantSystemAdmin.vcxproj -> C:\Users\User\source\repos\RestaurantSystemAdmin\Debug\Admin.exe

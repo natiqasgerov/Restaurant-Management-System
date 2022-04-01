@@ -1,0 +1,5 @@
+0#Snek with cheese#2.30#1#Cheese#1000#@
+1#Small French Fries#1.80#1#Potato#500#@
+2#Medium Fries Potatoes#2.70#1#Potato#1200#@
+3#Small Village Potato#2.0#1#Potato#500#@
+4#Peasant Potatoes#2.50#1#Potato#700#@

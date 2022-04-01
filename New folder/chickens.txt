@@ -1,0 +1,6 @@
+0#Bud#2.5#1 piece#1#Bud#200#@
+1#Bud#4.5#2 piece#1#Bud#300#@
+2#Bud#6.7#3 piece#1#Bud#400#@
+3#Wings#3.5#3 piece#1#Wings#300#@
+4#Wings#5.6#6 piece#1#Wings#500#@
+5#Wings#7.8#9 piece#1#Wings#700#@

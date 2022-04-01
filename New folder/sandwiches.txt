@@ -1,0 +1,3 @@
+0#Twister Junior#3#3#Chicken strips#300#Ketchup#40#Onion#100#@
+1#Twister#3.9#4#Chicken strips#400#Ketchup#50#Pickles#100#Tomato#100#@
+2#Twister De Lux#4.3#4#Chicken strips#300#Onion#60#Pickles#100#Ketchup#50#@

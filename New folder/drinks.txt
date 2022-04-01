@@ -1,0 +1,6 @@
+0#Coca-Cola#1.9#1#Coca-Cola#500#@
+1#Fanta#1.9#1#Fanta#500#@
+2#Sprite#1.9#1#Sprite#500#@
+3#Fuse Tea#2.2#1#Pineapple#500#@
+4#Water#1#1#Water#500#@
+5#Milk#0.6#1#Milk#600#@
